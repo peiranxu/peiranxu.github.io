@@ -12,7 +12,9 @@ I am a first-year Ph.D. student at [UCLA](https://www.ucla.edu), where I am fort
 
 Outside research, I love chinese calligraphy and photography. Feel free to connect me!
 
-# Publications
+## Publications
 - FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning
-  Peiran Xu*, Zeyu Wang*, Jieru Mei, Liangqiong Qu, Alan Yuille, Cihang Xie, Yuyin Zhou
-  [TMLR'24](https://arxiv.org/pdf/2310.04412),[Code](https://github.com/UCSC-VLAA/FedConv)
+
+  **Peiran Xu**\*, Zeyu Wang\*, Jieru Mei, Liangqiong Qu, Alan Yuille, Cihang Xie, Yuyin Zhou
+
+  [TMLR'24](https://arxiv.org/pdf/2310.04412), [Code](https://github.com/UCSC-VLAA/FedConv)
