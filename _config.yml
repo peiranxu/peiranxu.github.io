@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Peiran Xu"
   avatar           : "profile.png"
-  bio              : "Student"
-  location         : "Shanghai"
+  bio              : "PhD student@UCLA"
+  location         : "Los Angeles, CA"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -99,10 +99,10 @@ author:
   github           : "https://github.com/peiranxu"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/raanpeei/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/peiran-xu-ba391b254"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
