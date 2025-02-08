@@ -17,10 +17,10 @@ Outside research, I love chinese calligraphy and photography.
   **Peiran Xu**\*, Zeyu Wang\*, Jieru Mei, Liangqiong Qu, Alan Yuille, Cihang Xie, Yuyin Zhou  
   [TMLR'24](https://arxiv.org/pdf/2310.04412), [Code](https://github.com/UCSC-VLAA/FedConv)
 
-- Weakly-Supervised Learning for Retrospective T1 and T2 Mapping from Conventional Weighted Brain MRI   
-  **Peiran Xu**, Shihan Qiu, Hsu-Lei Lee, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li
+- Weakly-Supervised Learning for Retrospective T1 and T2 Mapping from Conventional Weighted Brain MRI  
+  **Peiran Xu**, Shihan Qiu, Hsu-Lei Lee, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li  
   ISMRM'25 
 
 - Brain Age Gap Prediction and Application to Alzheimer’s Disease Using Synthetic T1 and T2 Maps with Deep Learning   
-  **Peiran Xu**, Shihan Qiu, Yifan Gao, Zengtian Deng, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li
+  **Peiran Xu**, Shihan Qiu, Yifan Gao, Zengtian Deng, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li   
   ISMRM'25  
