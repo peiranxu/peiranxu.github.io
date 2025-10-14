@@ -8,11 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at [UCLA](https://www.ucla.edu), where I am fortunately advised by Prof. [Debiao Li](https://scholar.google.com/citations?user=44m8E1MAAAAJ&hl=en). My research interests include generative AI, medical image synthesis and VLM. I have interned at CCVL@JHU advised by Prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), Prof. [Cihang Xie](https://cihangxie.github.io) and Prof. [Yuyin Zhou](https://yuyinzhou.github.io). Before joining UCLA, I got my bachelor degree from Shanghai Jiao Tong University.
+I am a third-year Ph.D. student at UCLA, where I am fortunately advised by Prof. [Debiao Li](https://scholar.google.com/citations?user=44m8E1MAAAAJ&hl=en). My research interests include **reinforcement Learning (RL) for LLM agents** and **foundation model of quantitative medical images**. 
 
-Outside research, I love chinese calligraphy and photography. 
+I interned at [Alibaba Group](https://www.alibabagroup.com/en-US/) as research intern and Johns Hopkins University computer science department as Research Intern. Before joining UCLA, I got my bachelor degree from Shanghai Jiao Tong University. 
 
 ## Publications
+- Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks.  
+  **Peiran Xu**\*, Zhuohao Li*, Xiaoying Xing, Guannan Zhang, Debiao Li, Kunyu Shi  
+  [arxiv](https://www.arxiv.org/abs/2509.25598), [Code](https://github.com/peiranxu/ppr)
+
+- Hawkeye: Efficient Reasoning with Model Collaboration.  
+  Jianshu She*, Zhuohao Li*, Zhemin Huang, Qi Li, **Peiran Xu**, Haonan Li, Qirong Ho  
+  [COLM'25](https://arxiv.org/pdf/2504.00424), [Code](https://huggingface.co/Jianshu001/Efficient_CoT_DeepSeek-R1-Distill-Qwen-7B)
+
 - FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning  
   **Peiran Xu**\*, Zeyu Wang\*, Jieru Mei, Liangqiong Qu, Alan Yuille, Cihang Xie, Yuyin Zhou  
   [TMLR'24](https://arxiv.org/pdf/2310.04412), [Code](https://github.com/UCSC-VLAA/FedConv)
