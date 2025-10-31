@@ -88,6 +88,7 @@ author:
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "ranx.423@gmail.com"
+  cv               : "cv.pdf"  # CV file in /files/ directory
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
