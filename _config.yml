@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Peiran Xu"
   avatar           : "cv.png"
-  bio              : "PhD student@UCLA"
+  bio              : "PhD candidate@UCLA"
   location         : "Los Angeles, CA"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -100,7 +100,7 @@ author:
   github           : 'peiranxu'
   google_plus      :
   keybase          :
-  instagram        : 'raanpeei'
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : 'peiranx'

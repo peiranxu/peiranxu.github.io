@@ -8,14 +8,70 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at UCLA, where I am fortunately advised by Prof. [Debiao Li](https://scholar.google.com/citations?user=44m8E1MAAAAJ&hl=en). My research interests include **reinforcement Learning (RL) for LLM agents** and **foundation model of quantitative medical images**. 
+I am a third-year Ph.D. student at UCLA, where I am fortunately advised by Prof. Debiao Li. My research interests include **LLM post-training, LLM agents, Agentic RL and AI4S**.
 
-I interned at [Alibaba Group](https://www.alibabagroup.com/en-US/) as research intern and Johns Hopkins University computer science department as Research Intern. Before joining UCLA, I got my bachelor degree from Shanghai Jiao Tong University. 
+I have also spent wonderful time as a research intern at Snowflake, Alibaba, and JHU. Before joining UCLA, I received my bachelor's degree from Shanghai Jiao Tong University.
+
+I am based in both Los Angeles and the Bay Area; feel free to connect, or discuss any collaboration opportunities. :D
+
+<style>
+  .industry-experience-list {
+    margin: 0 0 1.3em;
+  }
+
+  .industry-experience-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+  }
+
+  .industry-experience-avatar {
+    width: 44px;
+    height: 44px;
+    flex: 0 0 44px;
+    padding: 6px;
+    border: 1px solid #f2f3f3;
+    border-radius: 50%;
+    background: #fff;
+    object-fit: contain;
+  }
+
+  .industry-experience-meta {
+    min-width: 0;
+  }
+</style>
+
+## Industry Experience
+<div class="industry-experience-list">
+  <div class="industry-experience-item">
+    <img src="/images/snowflake-avatar.png" alt="Snowflake logo" class="industry-experience-avatar">
+    <div class="industry-experience-meta">
+      <strong>Snowflake Inc</strong>, Research Intern, Menlo Park, CA<br>
+      Feb 2026 - present
+    </div>
+  </div>
+  <div class="industry-experience-item">
+    <img src="/images/alibaba-avatar.png" alt="Alibaba logo" class="industry-experience-avatar">
+    <div class="industry-experience-meta">
+      <strong>Alibaba Group</strong>, Research Intern, Sunnyvale, CA<br>
+      Jun 2025 - Dec 2025
+    </div>
+  </div>
+</div>
 
 ## Publications
 - Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks.  
   **Peiran Xu**\*, Zhuohao Li*, Xiaoying Xing, Guannan Zhang, Debiao Li, Kunyu Shi  
   [arxiv](https://www.arxiv.org/abs/2509.25598), [Code](https://github.com/peiranxu/ppr)
+
+- One-Shot Physics-Guided Learning for Retrospective Quantitative MRI Mapping from Routine Scans.  
+  **Peiran Xu**, Shihan Qiu, Hsu-Lei Lee, Yifan Gao, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li  
+  Under review
+
+- Shared Gaussian Geometry for Zero-Shot MRI Spatial Resolution Harmonization.  
+  Yifan Gao, **Peiran Xu**, Yimeng He, Haoran Li, Ziyang Long, Debiao Li  
+  MICCAI'26
 
 - Hawkeye: Efficient Reasoning with Model Collaboration.  
   Jianshu She*, Zhuohao Li*, Zhemin Huang, Qi Li, **Peiran Xu**, Haonan Li, Qirong Ho  
