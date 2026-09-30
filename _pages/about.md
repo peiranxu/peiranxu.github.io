@@ -47,52 +47,18 @@ I am based in both Los Angeles and the Bay Area; feel free to connect, or discus
   <div class="industry-experience-item">
     <img src="/images/snowflake-avatar.png" alt="Snowflake logo" class="industry-experience-avatar">
     <div class="industry-experience-meta">
-      <strong>Snowflake Inc</strong>, Research Intern, Menlo Park, CA<br>
+      <strong>Snowflake</strong>, Research Intern, Menlo Park, CA<br>
       Feb 2026 - present
     </div>
   </div>
   <div class="industry-experience-item">
     <img src="/images/alibaba-avatar.png" alt="Alibaba logo" class="industry-experience-avatar">
     <div class="industry-experience-meta">
-      <strong>Alibaba Group</strong>, Research Intern, Sunnyvale, CA<br>
+      <strong>Alibaba</strong>, Research Intern, Sunnyvale, CA<br>
       Jun 2025 - Dec 2025
     </div>
   </div>
 </div>
 
 ## Publications
-- Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks.  
-  **Peiran Xu**\*, Zhuohao Li\*, Xiaoying Xing, Guannan Zhang, Debiao Li, Kunyu Shi  
-  [arxiv](https://www.arxiv.org/abs/2509.25598), [Code](https://github.com/peiranxu/ppr)
-
-- Benchmarking Hybrid Deep Research Across Database Querying and Web Search.  
-  Ruofan Wu\*, **Peiran Xu**\*, Xiaolong Li\*, Fan Shu\*, Soyoung Yoon, Yite Wang, Xiaodong Yu, Boyi Liu, Feng Yan, Debiao Li, Yuxiong He, Zhewei Yao  
-  [arXiv](https://arxiv.org/abs/2609.09410), [Code](https://github.com/Snowflake-AI-Research/HybridDeepResearch)
-
-- Agents' Last Exam.  
-  Yiyou Sun, Xinyang Han, Weichen Zhang, ..., **Peiran Xu**, et al.  
-  [arXiv](https://arxiv.org/abs/2606.05405), [Code](https://github.com/rdi-berkeley/agents-last-exam)
-
-- One-Shot Physics-Guided Learning for Retrospective Quantitative MRI Mapping from Routine Scans.  
-  **Peiran Xu**, Shihan Qiu, Hsu-Lei Lee, Yifan Gao, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li  
-  Under review
-
-- AtlasGS: Brain MRI Spatial Resolution Harmonization With Shared Gaussian Geometry.  
-  Yifan Gao, **Peiran Xu**, Yimeng He, Haoran Li, Ziyang Long, Yufeng Wang, Ju Dong Yang, Debiao Li  
-  MICCAI'26, [arXiv](https://arxiv.org/abs/2606.02961), [Code](https://github.com/yfgao76/AtlasGS)
-
-- Hawkeye: Model Collaboration for Efficient Reasoning.  
-  Jianshu She\*, Zhuohao Li\*, Zhemin Huang, Qi Li, **Peiran Xu**, Haonan Li, Qirong Ho  
-  [COLM'25](https://arxiv.org/pdf/2504.00424), [Code](https://huggingface.co/Jianshu001/Efficient_CoT_DeepSeek-R1-Distill-Qwen-7B)
-
-- FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning  
-  **Peiran Xu**\*, Zeyu Wang\*, Jieru Mei, Liangqiong Qu, Alan Yuille, Cihang Xie, Yuyin Zhou  
-  [TMLR'24](https://arxiv.org/pdf/2310.04412), [Code](https://github.com/UCSC-VLAA/FedConv)
-
-- Weakly-Supervised Learning for Retrospective T1 and T2 Mapping from Conventional Weighted Brain MRI  
-  **Peiran Xu**, Shihan Qiu, Hsu-Lei Lee, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li  
-  ISMRM'25 
-
-- Brain Age Gap Prediction and Application to Alzheimer’s Disease Using Synthetic T1 and T2 Maps with Deep Learning   
-  **Peiran Xu**, Shihan Qiu, Yifan Gao, Zengtian Deng, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li   
-  ISMRM'25  
+{% include publication-list.html %}

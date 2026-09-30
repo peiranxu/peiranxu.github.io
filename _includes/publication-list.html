@@ -1,0 +1,19 @@
+<div class="publication-list">
+  {% for publication in site.data.homepage_publications %}
+  <article class="publication-item{% unless publication.image %} publication-item--text-only{% endunless %}">
+    {% if publication.image %}
+    <a class="publication-figure" href="{{ publication.figure_source }}" aria-label="View source figure for {{ publication.title | escape }}">
+      <img class="publication-image" src="{{ publication.image | relative_url }}" alt="{{ publication.image_alt | escape }}" width="{{ publication.image_width }}" height="{{ publication.image_height }}" loading="lazy" decoding="async">
+    </a>
+    {% endif %}
+    <div class="publication-info">
+      <h3 class="publication-title">{{ publication.title | escape }}</h3>
+      <div class="publication-authors">{{ publication.authors | markdownify }}</div>
+      <p class="publication-links">
+        {% if publication.venue %}<span>{{ publication.venue | escape }}</span>{% if publication.links %}, {% endif %}{% endif %}
+        {% for link in publication.links %}<a href="{{ link.url }}">{{ link.label | escape }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}
+      </p>
+    </div>
+  </article>
+  {% endfor %}
+</div>

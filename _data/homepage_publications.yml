@@ -1,0 +1,94 @@
+- title: Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks.
+  authors: '**Peiran Xu**\*, Zhuohao Li\*, Xiaoying Xing, Guannan Zhang, Debiao Li, Kunyu Shi'
+  image: /images/publications/hybrid-reward.svg
+  image_width: 1320
+  image_height: 405
+  image_alt: Overview of PPR rollout with process and outcome reward models
+  figure_source: https://arxiv.org/html/2509.25598v1#S3.F2
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2509.25598
+    - label: Code
+      url: https://github.com/peiranxu/ppr
+
+- title: Benchmarking Hybrid Deep Research Across Database Querying and Web Search.
+  authors: 'Ruofan Wu\*, **Peiran Xu**\*, Xiaolong Li\*, Fan Shu\*, Soyoung Yoon, Yite Wang, Xiaodong Yu, Boyi Liu, Feng Yan, Debiao Li, Yuxiong He, Zhewei Yao'
+  image: /images/publications/hybrid-deep-research.png
+  image_width: 3635
+  image_height: 1170
+  image_alt: SQL-to-search, search-to-SQL, and parallel reasoning patterns in HybridDeepResearch
+  figure_source: https://arxiv.org/html/2609.09410v1#S0.F2
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2609.09410
+    - label: Code
+      url: https://github.com/Snowflake-AI-Research/HybridDeepResearch
+
+- title: Agents' Last Exam.
+  authors: 'Yiyou Sun, Xinyang Han, Weichen Zhang, ..., **Peiran Xu**, et al.'
+  image: /images/publications/agents-last-exam.png
+  image_width: 2029
+  image_height: 1008
+  image_alt: Professional task taxonomy and example workflows in Agents' Last Exam
+  figure_source: https://arxiv.org/html/2606.05405v2#S0.F1
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2606.05405
+    - label: Code
+      url: https://github.com/rdi-berkeley/agents-last-exam
+
+- title: One-Shot Physics-Guided Learning for Retrospective Quantitative MRI Mapping from Routine Scans.
+  authors: '**Peiran Xu**, Shihan Qiu, Hsu-Lei Lee, Yifan Gao, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li'
+  venue: Under review
+
+- title: 'AtlasGS: Brain MRI Spatial Resolution Harmonization With Shared Gaussian Geometry.'
+  authors: 'Yifan Gao, **Peiran Xu**, Yimeng He, Haoran Li, Ziyang Long, Yufeng Wang, Ju Dong Yang, Debiao Li'
+  venue: MICCAI'26
+  image: /images/publications/atlasgs.png
+  image_width: 9312
+  image_height: 5672
+  image_alt: AtlasGS shared Gaussian geometry framework for multi-contrast MRI harmonization
+  figure_source: https://arxiv.org/html/2606.02961v1#S0.F1
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2606.02961
+    - label: Code
+      url: https://github.com/yfgao76/AtlasGS
+
+- title: 'Hawkeye: Model Collaboration for Efficient Reasoning.'
+  authors: 'Jianshu She\*, Zhuohao Li\*, Zhemin Huang, Qi Li, **Peiran Xu**, Haonan Li, Qirong Ho'
+  image: /images/publications/hawkeye.png
+  image_width: 1480
+  image_height: 592
+  image_alt: Hawkeye model collaboration framework compared with standard reasoning pipelines
+  figure_source: https://arxiv.org/html/2504.00424v2#S1.F1
+  links:
+    - label: COLM'25
+      url: https://arxiv.org/pdf/2504.00424
+    - label: Code
+      url: https://huggingface.co/Jianshu001/Efficient_CoT_DeepSeek-R1-Distill-Qwen-7B
+
+- title: 'FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning'
+  authors: '**Peiran Xu**\*, Zeyu Wang\*, Jieru Mei, Liangqiong Qu, Alan Yuille, Cihang Xie, Yuyin Zhou'
+  image: /images/publications/fedconv.png
+  image_width: 937
+  image_height: 479
+  image_alt: Convolutional block architectures studied in FedConv
+  figure_source: https://arxiv.org/html/2310.04412v1#S3.F3
+  links:
+    - label: TMLR'24
+      url: https://arxiv.org/pdf/2310.04412
+    - label: Code
+      url: https://github.com/UCSC-VLAA/FedConv
+
+- title: Weakly-Supervised Learning for Retrospective T1 and T2 Mapping from Conventional Weighted Brain MRI
+  authors: '**Peiran Xu**, Shihan Qiu, Hsu-Lei Lee, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li'
+  links:
+    - label: ISMRM'25
+      url: https://archive.ismrm.org/2025/3998.html
+
+- title: Brain Age Gap Prediction and Application to Alzheimer's Disease Using Synthetic T1 and T2 Maps with Deep Learning
+  authors: '**Peiran Xu**, Shihan Qiu, Yifan Gao, Zengtian Deng, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li'
+  links:
+    - label: ISMRM'25
+      url: https://archive.ismrm.org/2025/1382.html

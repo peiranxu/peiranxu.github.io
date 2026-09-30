@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Peiran Xu"
-  avatar           : "cv.png"
+  avatar           : "peiran-xu.jpg"
   bio              : "PhD candidate@UCLA"
-  location         : "Los Angeles, CA"
+  location         : "Los Angeles and Bay Area"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=K5zRJC8AAAAJ&view_op=list_works"
-  email            : "ranx.423@gmail.com"
+  email            : "peiran@ucla.edu"
   cv               :  # CV file in /files/ directory
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

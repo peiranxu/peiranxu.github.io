@@ -220,6 +220,18 @@
     white-space: nowrap;
   }
 
+  .author__location {
+    display: flex;
+    align-items: baseline;
+    gap: 0.25em;
+    max-width: 16em;
+    white-space: normal;
+
+    i {
+      flex: 0 0 1.25em;
+    }
+  }
+
   a {
     display: block;
     margin-bottom: 5px;
