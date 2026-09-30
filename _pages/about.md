@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student at UCLA, where I am fortunately advised by Prof. Debiao Li. My research interests include **LLM post-training, LLM agents, Agentic RL and AI4S**.
+I am a fourth-year Ph.D. candidate at UCLA, where I am fortunate to be advised by Prof. Debiao Li. My research interests include **LLM post-training, LLM agents, Agentic RL and AI4S**.
 
-I have also spent wonderful time as a research intern at Snowflake, Alibaba, and JHU. Before joining UCLA, I received my bachelor's degree from Shanghai Jiao Tong University.
+I have also enjoyed my time as a research intern at Snowflake, Alibaba, and JHU. Before joining UCLA, I received my bachelor's degree from Shanghai Jiao Tong University.
 
-I am based in both Los Angeles and the Bay Area; feel free to connect, or discuss any collaboration opportunities. :D
+I am actively seeking internship and full-time opportunities. Feel free to reach out for a chat.
 
 <style>
   .industry-experience-list {
@@ -42,7 +42,7 @@ I am based in both Los Angeles and the Bay Area; feel free to connect, or discus
   }
 </style>
 
-## Industry Experience
+## Experience
 <div class="industry-experience-list">
   <div class="industry-experience-item">
     <img src="/images/snowflake-avatar.png" alt="Snowflake logo" class="industry-experience-avatar">

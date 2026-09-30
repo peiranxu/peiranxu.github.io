@@ -71,10 +71,10 @@
 - title: 'FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning'
   authors: '**Peiran Xu**\*, Zeyu Wang\*, Jieru Mei, Liangqiong Qu, Alan Yuille, Cihang Xie, Yuyin Zhou'
   image: /images/publications/fedconv.png
-  image_width: 937
-  image_height: 479
-  image_alt: Convolutional block architectures studied in FedConv
-  figure_source: https://arxiv.org/html/2310.04412v1#S3.F3
+  image_width: 1892
+  image_height: 356
+  image_alt: FedConv performance comparison on CIFAR-10, iNaturalist, and COVID-FL
+  figure_source: https://arxiv.org/html/2310.04412v1#S1.F1
   links:
     - label: TMLR'24
       url: https://arxiv.org/pdf/2310.04412
