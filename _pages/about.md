@@ -12,7 +12,7 @@ I am a fourth-year Ph.D. candidate at UCLA, where I am fortunate to be advised b
 
 I have also enjoyed my time as a research intern at Snowflake, Alibaba, and JHU. Before joining UCLA, I received my bachelor's degree from Shanghai Jiao Tong University.
 
-I am actively seeking internship and full-time opportunities. Feel free to reach out for a chat.
+I am open to job opportunities, collaborations and meet new friends. Feel free to chat.
 
 <style>
   .industry-experience-list {
