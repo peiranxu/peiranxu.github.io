@@ -11,6 +11,17 @@
     - label: Code
       url: https://github.com/peiranxu/ppr
 
+- title: 'HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents.'
+  authors: 'Soyoung Yoon\*, **Peiran Xu**\*, Han Wang\*, Ruofan Wu\*, Xiaodong Yu\*, Feng Yan, Mohit Bansal, Debiao Li, Seung-Won Hwang, Yuxiong He, Zhewei Yao'
+  image: /images/publications/hybridresearcher.png
+  image_width: 1231
+  image_height: 399
+  image_alt: HybridResearcher pipeline for preparing QA pairs, synthesizing trajectories, and training with SFT and RL
+  figure_source: https://arxiv.org/html/2610.24899v1#S1.F1
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2610.24899
+
 - title: Benchmarking Hybrid Deep Research Across Database Querying and Web Search.
   authors: 'Ruofan Wu\*, **Peiran Xu**\*, Xiaolong Li\*, Fan Shu\*, Soyoung Yoon, Yite Wang, Xiaodong Yu, Boyi Liu, Feng Yan, Debiao Li, Yuxiong He, Zhewei Yao'
   image: /images/publications/hybrid-deep-research.png
