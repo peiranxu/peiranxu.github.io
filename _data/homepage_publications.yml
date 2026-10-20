@@ -48,10 +48,6 @@
     - label: Code
       url: https://github.com/rdi-berkeley/agents-last-exam
 
-- title: One-Shot Physics-Guided Learning for Retrospective Quantitative MRI Mapping from Routine Scans.
-  authors: '**Peiran Xu**, Shihan Qiu, Hsu-Lei Lee, Yifan Gao, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li'
-  venue: Under review
-
 - title: 'AtlasGS: Brain MRI Spatial Resolution Harmonization With Shared Gaussian Geometry.'
   authors: 'Yifan Gao, **Peiran Xu**, Yimeng He, Haoran Li, Ziyang Long, Yufeng Wang, Ju Dong Yang, Debiao Li'
   venue: MICCAI'26
