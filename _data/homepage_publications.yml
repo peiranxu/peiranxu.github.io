@@ -1,16 +1,3 @@
-- title: Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks.
-  authors: '**Peiran Xu**\*, Zhuohao Li\*, Xiaoying Xing, Guannan Zhang, Debiao Li, Kunyu Shi'
-  image: /images/publications/hybrid-reward.svg
-  image_width: 1320
-  image_height: 405
-  image_alt: Overview of PPR rollout with process and outcome reward models
-  figure_source: https://arxiv.org/html/2509.25598v1#S3.F2
-  links:
-    - label: arXiv
-      url: https://arxiv.org/abs/2509.25598
-    - label: Code
-      url: https://github.com/peiranxu/ppr
-
 - title: 'HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents.'
   authors: 'Soyoung Yoon\*, **Peiran Xu**\*, Han Wang\*, Ruofan Wu\*, Xiaodong Yu\*, Feng Yan, Mohit Bansal, Debiao Li, Seung-Won Hwang, Yuxiong He, Zhewei Yao'
   image: /images/publications/hybridresearcher.png
@@ -34,6 +21,19 @@
       url: https://arxiv.org/abs/2609.09410
     - label: Code
       url: https://github.com/Snowflake-AI-Research/HybridDeepResearch
+
+- title: Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks.
+  authors: '**Peiran Xu**\*, Zhuohao Li\*, Xiaoying Xing, Guannan Zhang, Debiao Li, Kunyu Shi'
+  image: /images/publications/hybrid-reward.svg
+  image_width: 1320
+  image_height: 405
+  image_alt: Overview of PPR rollout with process and outcome reward models
+  figure_source: https://arxiv.org/html/2509.25598v1#S3.F2
+  links:
+    - label: arXiv
+      url: https://arxiv.org/abs/2509.25598
+    - label: Code
+      url: https://github.com/peiranxu/ppr
 
 - title: Agents' Last Exam.
   authors: 'Yiyou Sun, Xinyang Han, Weichen Zhang, ..., **Peiran Xu**, et al.'
