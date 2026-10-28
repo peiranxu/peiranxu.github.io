@@ -124,6 +124,8 @@ include:
   - _pages
   - files
 exclude:
+  - docs/superpowers
+  - tests
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

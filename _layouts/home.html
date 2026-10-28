@@ -1,0 +1,43 @@
+---
+layout: compress
+---
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js home-document">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    <link rel="stylesheet" href="{{ '/assets/css/homepage.css' | relative_url }}">
+  </head>
+  <body class="homepage">
+    <a class="home-skip-link" href="#main-content">Skip to content</a>
+    <header class="home-header">
+      <nav class="home-nav" aria-label="Main navigation">
+        <a class="home-brand" href="#about">Homepage</a>
+        <div class="home-nav-links">
+          <a href="#experience">Experience</a>
+          <a href="#publications">Selected Publications</a>
+        </div>
+      </nav>
+    </header>
+    <div class="home-layout">
+      <aside class="home-profile" aria-label="Profile and contact information" itemscope itemtype="https://schema.org/Person">
+        <img class="home-portrait" src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="{{ site.author.name | escape }}" width="164" height="164" itemprop="image">
+        <p class="home-profile-name" itemprop="name">{{ site.author.name | escape }}</p>
+        <p class="home-profile-role">{{ site.author.bio | escape }}</p>
+        <p class="home-location">{{ site.author.location | escape }}</p>
+        <div class="home-contacts">
+          <a href="mailto:{{ site.author.email | escape }}" itemprop="email">{{ site.author.email | escape }}</a>
+          <a href="https://www.linkedin.com/in/{{ site.author.linkedin | escape }}/" itemprop="sameAs">LinkedIn</a>
+          <a href="{{ site.author.googlescholar | escape }}" itemprop="sameAs">Google Scholar</a>
+        </div>
+      </aside>
+      <main class="home-content" id="main-content" tabindex="-1">
+        {{ content }}
+      </main>
+    </div>
+    <footer class="home-footer">
+      <span>&copy; {{ site.time | date: '%Y' }} {{ site.author.name | escape }} &middot; UCLA</span>
+      <span>Built with <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a></span>
+    </footer>
+  </body>
+</html>

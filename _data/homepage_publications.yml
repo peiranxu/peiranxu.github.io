@@ -1,4 +1,6 @@
 - title: 'HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents.'
+  year: 2026
+  summary: Training a 4B agent to reason across SQL and web search through synthetic data, SFT, and reinforcement learning.
   authors: 'Soyoung Yoon\*, **Peiran Xu**\*, Han Wang\*, Ruofan Wu\*, Xiaodong Yu\*, Feng Yan, Mohit Bansal, Debiao Li, Seung-Won Hwang, Yuxiong He, Zhewei Yao'
   image: /images/publications/hybridresearcher.png
   image_width: 1231
@@ -6,10 +8,14 @@
   image_alt: HybridResearcher pipeline for preparing QA pairs, synthesizing trajectories, and training with SFT and RL
   figure_source: https://arxiv.org/html/2610.24899v1#S1.F1
   links:
-    - label: arXiv
+    - label: Paper
       url: https://arxiv.org/abs/2610.24899
+    - label: Blog
+      url: https://www.snowflake.com/en/blog/engineering/hybridresearcher-deep-research-agents/
 
 - title: Benchmarking Hybrid Deep Research Across Database Querying and Web Search.
+  year: 2026
+  summary: Evaluating whether agents can combine structured database records with evidence from the open web.
   authors: 'Ruofan Wu\*, **Peiran Xu**\*, Xiaolong Li\*, Fan Shu\*, Soyoung Yoon, Yite Wang, Xiaodong Yu, Boyi Liu, Feng Yan, Debiao Li, Yuxiong He, Zhewei Yao'
   image: /images/publications/hybrid-deep-research.png
   image_width: 3635
@@ -17,12 +23,18 @@
   image_alt: SQL-to-search, search-to-SQL, and parallel reasoning patterns in HybridDeepResearch
   figure_source: https://arxiv.org/html/2609.09410v1#S0.F2
   links:
-    - label: arXiv
+    - label: Paper
       url: https://arxiv.org/abs/2609.09410
     - label: Code
       url: https://github.com/Snowflake-AI-Research/HybridDeepResearch
+    - label: Blog
+      url: https://www.snowflake.com/en/blog/engineering/hybrid-deep-research-benchmark/
+    - label: Leaderboard
+      url: https://snowflake-ai-research.github.io/hybrid_leaderboard/
 
 - title: Hybrid Reward Normalization for Process-supervised Non-verifiable Agentic Tasks.
+  year: 2025
+  summary: Aligning dense process rewards with final task outcomes for more stable agent reinforcement learning.
   authors: '**Peiran Xu**\*, Zhuohao Li\*, Xiaoying Xing, Guannan Zhang, Debiao Li, Kunyu Shi'
   image: /images/publications/hybrid-reward.svg
   image_width: 1320
@@ -30,12 +42,14 @@
   image_alt: Overview of PPR rollout with process and outcome reward models
   figure_source: https://arxiv.org/html/2509.25598v1#S3.F2
   links:
-    - label: arXiv
+    - label: Paper
       url: https://arxiv.org/abs/2509.25598
     - label: Code
       url: https://github.com/peiranxu/ppr
 
 - title: Agents' Last Exam.
+  venue: NeurIPS 2026
+  summary: A benchmark of long-horizon professional workflows with verifiable outcomes.
   authors: 'Yiyou Sun, Xinyang Han, Weichen Zhang, ..., **Peiran Xu**, et al.'
   image: /images/publications/agents-last-exam.png
   image_width: 2029
@@ -43,26 +57,27 @@
   image_alt: Professional task taxonomy and example workflows in Agents' Last Exam
   figure_source: https://arxiv.org/html/2606.05405v2#S0.F1
   links:
-    - label: arXiv
+    - label: Paper
       url: https://arxiv.org/abs/2606.05405
     - label: Code
       url: https://github.com/rdi-berkeley/agents-last-exam
 
 - title: 'AtlasGS: Brain MRI Spatial Resolution Harmonization With Shared Gaussian Geometry.'
   authors: 'Yifan Gao, **Peiran Xu**, Yimeng He, Haoran Li, Ziyang Long, Yufeng Wang, Ju Dong Yang, Debiao Li'
-  venue: MICCAI'26
+  venue: MICCAI 2026
   image: /images/publications/atlasgs.png
   image_width: 9312
   image_height: 5672
   image_alt: AtlasGS shared Gaussian geometry framework for multi-contrast MRI harmonization
   figure_source: https://arxiv.org/html/2606.02961v1#S0.F1
   links:
-    - label: arXiv
+    - label: Paper
       url: https://arxiv.org/abs/2606.02961
     - label: Code
       url: https://github.com/yfgao76/AtlasGS
 
 - title: 'Hawkeye: Model Collaboration for Efficient Reasoning.'
+  venue: COLM 2025
   authors: 'Jianshu She\*, Zhuohao Li\*, Zhemin Huang, Qi Li, **Peiran Xu**, Haonan Li, Qirong Ho'
   image: /images/publications/hawkeye.png
   image_width: 1480
@@ -70,12 +85,13 @@
   image_alt: Hawkeye model collaboration framework compared with standard reasoning pipelines
   figure_source: https://arxiv.org/html/2504.00424v2#S1.F1
   links:
-    - label: COLM'25
+    - label: Paper
       url: https://arxiv.org/pdf/2504.00424
-    - label: Code
+    - label: Model
       url: https://huggingface.co/Jianshu001/Efficient_CoT_DeepSeek-R1-Distill-Qwen-7B
 
 - title: 'FedConv: Enhancing Convolutional Neural Networks for Handling Data Heterogeneity in Federated Learning'
+  venue: TMLR 2024
   authors: '**Peiran Xu**\*, Zeyu Wang\*, Jieru Mei, Liangqiong Qu, Alan Yuille, Cihang Xie, Yuyin Zhou'
   image: /images/publications/fedconv.png
   image_width: 1892
@@ -83,19 +99,7 @@
   image_alt: FedConv performance comparison on CIFAR-10, iNaturalist, and COVID-FL
   figure_source: https://arxiv.org/html/2310.04412v1#S1.F1
   links:
-    - label: TMLR'24
+    - label: Paper
       url: https://arxiv.org/pdf/2310.04412
     - label: Code
       url: https://github.com/UCSC-VLAA/FedConv
-
-- title: Weakly-Supervised Learning for Retrospective T1 and T2 Mapping from Conventional Weighted Brain MRI
-  authors: '**Peiran Xu**, Shihan Qiu, Hsu-Lei Lee, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li'
-  links:
-    - label: ISMRM'25
-      url: https://archive.ismrm.org/2025/3998.html
-
-- title: Brain Age Gap Prediction and Application to Alzheimer's Disease Using Synthetic T1 and T2 Maps with Deep Learning
-  authors: '**Peiran Xu**, Shihan Qiu, Yifan Gao, Zengtian Deng, Sreekanth Madhusoodhanan, Pascal Sati, Yibin Xie, Debiao Li'
-  links:
-    - label: ISMRM'25
-      url: https://archive.ismrm.org/2025/1382.html
